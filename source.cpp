@@ -59,7 +59,7 @@ public:
 
 
 
-void main() {
+void main1() {
 	Animal a1;
 	a1.setData();
 	a1.displayData();

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SingleLinkList.cpp",
+              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
+              "RelativeDocumentMoniker": "SingleLinkList.cpp",
+              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
+              "RelativeToolTip": "SingleLinkList.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T05:56:31.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp",
               "RelativeDocumentMoniker": "source.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp",
               "RelativeToolTip": "source.cpp",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAACUAAAAHAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwEMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-04T04:02:39.932Z",
               "EditorCaption": ""
