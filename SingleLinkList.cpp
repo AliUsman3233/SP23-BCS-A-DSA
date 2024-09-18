@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 #include<string>
 using namespace std;
 struct Node {
@@ -42,7 +42,7 @@ void displayLink() {
 }
 
 
-void main() {
+void main2() {
 
 	addNode();
 	addNode();
@@ -58,4 +58,4 @@ void main() {
 	//head = &newNode; // Stored the reference of new node into the head
 
 	system("pause");
-}
+}*/
