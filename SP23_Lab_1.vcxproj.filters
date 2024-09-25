@@ -24,5 +24,8 @@
     <ClCompile Include="SingleLinkListSecondRound.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="double_link_list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

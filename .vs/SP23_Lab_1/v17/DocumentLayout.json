@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:double_link_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkListSecondRound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkListSecondRound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,31 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "double_link_list.cpp",
+              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
+              "RelativeDocumentMoniker": "double_link_list.cpp",
+              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
+              "RelativeToolTip": "double_link_list.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswF4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T05:19:18.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SingleLinkListSecondRound.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkListSecondRound.cpp",
               "RelativeDocumentMoniker": "SingleLinkListSecondRound.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkListSecondRound.cpp",
               "RelativeToolTip": "SingleLinkListSecondRound.cpp",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAvwIgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-18T05:21:17.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SingleLinkList.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
               "RelativeDocumentMoniker": "SingleLinkList.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
               "RelativeToolTip": "SingleLinkList.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-11T05:56:31.866Z"
+              "WhenOpened": "2024-09-11T05:56:31.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp",
               "RelativeDocumentMoniker": "source.cpp",

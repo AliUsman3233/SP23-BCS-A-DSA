@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+/*
 struct Student {
 	int id;
 	string name;
@@ -53,7 +53,7 @@ void addNodeAtMiddle() {
 	cin >> data;
 	cout << "Enter Location" << endl;
 	cin >> location;*/
-	Node* newNode = createNode(data);
+	/*Node* newNode = createNode(data);
 	Node* headCopy = head;
 	for (int i = 0; i < location - 1; i++) {
 		if (headCopy->link != NULL) {
@@ -137,7 +137,7 @@ void searchStudentByName() {
 
 
 
-void main(void) {
+void main6(void) {
 
 	addNodeAtLast({ 11, "Hussain", 20 });
 	addNodeAtLast({ 12, "ALl", 21 });
@@ -147,9 +147,9 @@ void main(void) {
 	addNodeAtLast({ 16, "Ali Hassan", 25 });
 	addNodeAtMiddle();
 	//deleteStartNode();
-	displayList();
+/	displayList();
 
-	searchStudentByName();
+//	searchStudentByName(); */
 	/*system("pause");
 	addNodeAtLast({ 17, "Hammad", 26 });
 	displayList();
@@ -159,5 +159,5 @@ void main(void) {
 	system("pause");
 	deleteFromMiddle();
 	displayList();*/
-	system("pause");
-}
+//	system("pause");
+//}

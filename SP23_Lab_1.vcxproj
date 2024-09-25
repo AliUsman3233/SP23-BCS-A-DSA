@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="double_link_list.cpp" />
     <ClCompile Include="SingleLinkList.cpp" />
     <ClCompile Include="SingleLinkListSecondRound.cpp" />
     <ClCompile Include="source.cpp" />
