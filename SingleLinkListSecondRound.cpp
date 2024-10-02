@@ -1,6 +1,6 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
-/*
+
 struct Student {
 	int id;
 	string name;
@@ -62,7 +62,7 @@ void addNodeAtMiddle() {
 	}
 
 	newNode->link = headCopy->link;
-	headCopy->link = newNode;
+	/*headCopy->link = newNode;
 }
 
 void deleteStartNode() {
@@ -136,20 +136,47 @@ void searchStudentByName() {
 }
 
 
+void searchAndDelete() {
+	int age;
+	cout << "Enter age to deleteb the node" << endl;
+	cin >> age;
+	Node* headCopy = head;
+	Node* prev = NULL;
 
-void main6(void) {
+	while (headCopy != NULL) {
+
+		if (headCopy->data.age == age) {
+			if (prev == NULL) {
+				head = headCopy->link;
+			}
+			else
+			{
+				prev->link = headCopy->link;
+			}
+		}
+		else {
+			prev = headCopy;
+		}
+		headCopy = headCopy->link;
+	}
+}
+
+
+
+
+void main(void) {
 
 	addNodeAtLast({ 11, "Hussain", 20 });
 	addNodeAtLast({ 12, "ALl", 21 });
 	addNodeAtLast({ 13, "Usman", 22 });
 	addNodeAtLast({ 14, "Ahmad", 23 });
-	addNodeAtLast({ 15, "Danish", 24 });
+	addNodeAtLast({ 15, "Danish", 23 });
 	addNodeAtLast({ 16, "Ali Hassan", 25 });
 	addNodeAtMiddle();
 	//deleteStartNode();
-/	displayList();
+	displayList();
 
-//	searchStudentByName(); */
+//	searchStudentByName(); 
 	/*system("pause");
 	addNodeAtLast({ 17, "Hammad", 26 });
 	displayList();
@@ -158,6 +185,9 @@ void main6(void) {
 	displayList();
 	system("pause");
 	deleteFromMiddle();
-	displayList();*/
-//	system("pause");
-//}
+	displayList();
+	system("pause");
+	searchAndDelete();
+	displayList();
+	system("pause");
+}*/

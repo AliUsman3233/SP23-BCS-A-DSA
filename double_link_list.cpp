@@ -62,10 +62,65 @@ void addNodeAtMiddle(int data) {
 	newNode->next = nextNode;
 	newNode->pre = headCopy;
 	headCopy->next = newNode;
-
-
-	
 }
+
+
+void deleteFromStart() {
+	if (head != NULL) {
+		head = head->next;
+		if (head != NULL) {
+			head->pre = NULL;
+		}
+	}
+}
+
+void deleteFromEnd() {
+	Node* headCopy = head;
+	while (headCopy->next != NULL) {
+		headCopy = headCopy->next;
+	}
+	if (headCopy->pre == NULL) {
+		head = NULL;
+		//head = headCopy->pre;
+	}
+	else {
+		headCopy->pre->next = NULL;
+	}
+}
+
+
+
+void deleteFromMiddel() {
+	Node* headCopy = head;
+	int location = 3;
+	for (int i = 0; i < location - 1; i++) {
+		headCopy = headCopy->next;
+	}
+	headCopy->pre->next = headCopy -> next;
+	headCopy->next->pre = headCopy->pre;
+}
+
+void searchData() {
+	int dataToSearch;
+	cout << "Enter data to search" << endl;
+	cin >> dataToSearch;
+	Node* headCopy = head;
+	bool isFound = false;
+	while (headCopy != NULL) {
+		if (headCopy->data == dataToSearch) {
+			cout << "Found data is = " << headCopy->data << endl;
+			isFound = true;
+		}
+		headCopy = headCopy->next;
+	}
+
+	if (isFound == false) {
+		cout << "Data not found" << endl;
+	}
+}
+
+
+
 
 void displayLinkList() {
 	Node* headCopy = head;
@@ -79,8 +134,6 @@ void displayLinkList() {
 
 
 void main(void) {
-
-
 	addNodeAtLast(20);
 	addNodeAtLast(30);
 	addNodeAtLast(40);
@@ -93,5 +146,16 @@ void main(void) {
 	addNodeAtMiddle(100);
 	system("pause");
 	displayLinkList();
+	deleteFromStart();
+	system("pause");
+	displayLinkList();
+	deleteFromEnd();
+	system("pause");
+	displayLinkList();
+	deleteFromMiddel();
+	system("pause");
+	displayLinkList();
+	searchData();
+
 	system("pause");
 }
