@@ -133,7 +133,7 @@ void displayLinkList() {
 
 
 
-void main(void) {
+void main6(void) {
 	addNodeAtLast(20);
 	addNodeAtLast(30);
 	addNodeAtLast(40);

@@ -132,6 +132,8 @@
     <ClCompile Include="SingleLinkList.cpp" />
     <ClCompile Include="SingleLinkListSecondRound.cpp" />
     <ClCompile Include="source.cpp" />
+    <ClCompile Include="stack.cpp" />
+    <ClCompile Include="stack_round_2.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 struct Node {
@@ -133,7 +133,7 @@ void displayLinkList() {
 
 
 
-void main(void) {
+void main7(void) {
 	addNodeAtLast(20);
 	addNodeAtLast(30);
 	addNodeAtLast(40);
@@ -158,4 +158,4 @@ void main(void) {
 	searchData();
 
 	system("pause");
-}
+}*/
