@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:stack_round_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:double_link_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\circularLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:circularLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkListSecondRound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkListSecondRound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:stack_round_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,32 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue.cpp",
+              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp",
+              "RelativeToolTip": "Queue.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:45:48.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "stack_round_2.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp",
               "RelativeDocumentMoniker": "stack_round_2.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp",
               "RelativeToolTip": "stack_round_2.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAACQAAAACAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAFYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T07:11:18.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "circularLinkList.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\circularLinkList.cpp",
-              "RelativeDocumentMoniker": "circularLinkList.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\circularLinkList.cpp",
-              "RelativeToolTip": "circularLinkList.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T06:57:52.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "stack.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp",
               "RelativeDocumentMoniker": "stack.cpp",
@@ -80,49 +68,24 @@
               "RelativeToolTip": "stack.cpp",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAEUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T06:52:20.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T06:52:20.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
-              "RelativeDocumentMoniker": "test.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
-              "RelativeToolTip": "test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T07:57:18.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "double_link_list.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
               "RelativeDocumentMoniker": "double_link_list.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
               "RelativeToolTip": "double_link_list.cpp",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIcAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-25T05:19:18.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SingleLinkListSecondRound.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkListSecondRound.cpp",
-              "RelativeDocumentMoniker": "SingleLinkListSecondRound.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkListSecondRound.cpp",
-              "RelativeToolTip": "SingleLinkListSecondRound.cpp",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAEAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-18T05:21:17.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "SingleLinkList.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
               "RelativeDocumentMoniker": "SingleLinkList.cpp",
@@ -130,19 +93,8 @@
               "RelativeToolTip": "SingleLinkList.cpp",
               "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-11T05:56:31.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp",
-              "RelativeDocumentMoniker": "source.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\source.cpp",
-              "RelativeToolTip": "source.cpp",
-              "ViewState": "AQIAADcAAAAAAAAAAAAqwDkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-04T04:02:39.932Z"
+              "WhenOpened": "2024-09-11T05:56:31.866Z",
+              "EditorCaption": ""
             }
           ]
         }

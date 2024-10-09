@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 #include<string>
 #include<string.h>
 using namespace std;
@@ -84,4 +84,4 @@ void main(void) {
 	s.pop();
 	s.pop();
 	system("pause");
-}
+}*/

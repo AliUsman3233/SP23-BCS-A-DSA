@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 struct Node {
@@ -8,6 +8,7 @@ struct Node {
 };
 
 Node* head = NULL;
+Node* tail = NULL;
 
 Node* createNode(int data) {
 	Node* newNode = new Node;
@@ -31,6 +32,7 @@ void addNodeAtLast(int data) {
 		headCopy->next = newNode;
 		newNode->pre = headCopy;
 	}
+	tail = newNode;
 }
 
 void addNodeAtStart(int data) {
@@ -62,6 +64,9 @@ void addNodeAtMiddle(int data) {
 	newNode->next = nextNode;
 	newNode->pre = headCopy;
 	headCopy->next = newNode;
+	if (newNode->next == NULL) {
+		tail = newNode;
+	}
 }
 
 
@@ -86,6 +91,7 @@ void deleteFromEnd() {
 	else {
 		headCopy->pre->next = NULL;
 	}
+	tail = headCopy->pre;
 }
 
 
@@ -98,6 +104,8 @@ void deleteFromMiddel() {
 	}
 	headCopy->pre->next = headCopy -> next;
 	headCopy->next->pre = headCopy->pre;
+	tail = headCopy->pre;
+
 }
 
 void searchData() {
@@ -131,31 +139,41 @@ void displayLinkList() {
 }
 
 
+void displayLinkListReverse() {
+	Node* headCopy = tail;
+	while (headCopy != NULL) {
+		cout << "Data at node -> " << headCopy->data << endl;
+		headCopy = headCopy->pre;
+	}
+}
 
 
-void main6(void) {
+
+void main(void) {
 	addNodeAtLast(20);
 	addNodeAtLast(30);
 	addNodeAtLast(40);
 	addNodeAtLast(60);
-	displayLinkList();
-	system("pause");
+	//displayLinkList();
+	//system("pause");
 	addNodeAtStart(70);
 	displayLinkList();
 	system("pause");
-	addNodeAtMiddle(100);
+	//addNodeAtMiddle(100);
+	//system("pause");
+	//displayLinkList();
+	//deleteFromStart();
+	//system("pause");
+	//displayLinkList();
+	//deleteFromEnd();
+	//system("pause");
+	//displayLinkList();
+	//deleteFromMiddel();
+	//system("pause");
+	//displayLinkList();
+	//searchData();
+	//system("pause");
+	displayLinkListReverse();
+	//searchData();
 	system("pause");
-	displayLinkList();
-	deleteFromStart();
-	system("pause");
-	displayLinkList();
-	deleteFromEnd();
-	system("pause");
-	displayLinkList();
-	deleteFromMiddel();
-	system("pause");
-	displayLinkList();
-	searchData();
-
-	system("pause");
-}
+}*/
