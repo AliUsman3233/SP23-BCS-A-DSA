@@ -136,6 +136,7 @@
     <ClCompile Include="stack.cpp" />
     <ClCompile Include="stack_round_2.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="trees.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

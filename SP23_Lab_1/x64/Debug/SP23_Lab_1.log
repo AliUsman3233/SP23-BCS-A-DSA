@@ -1,3 +1,3 @@
-﻿  Queue.cpp
-C:\Users\alius\source\repos\SP23_Lab_1\Queue.cpp(48,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  trees.cpp
+C:\Users\alius\source\repos\SP23_Lab_1\trees.cpp(62,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
   SP23_Lab_1.vcxproj -> C:\Users\alius\source\repos\SP23_Lab_1\x64\Debug\SP23_Lab_1.exe

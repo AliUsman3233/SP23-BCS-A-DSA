@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 class Queue {
@@ -66,4 +66,4 @@ void main(void) {
 
 
 	system("pause");
-}
+}*/
