@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:trees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\XMEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -38,19 +41,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAnwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T05:59:48.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "test.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
               "RelativeDocumentMoniker": "test.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
               "RelativeToolTip": "test.cpp",
-              "ViewState": "AQIAAF4BAAAAAAAAAAAAAF4BAAABAAAA",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAAAF4BAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T07:48:22.614Z"
+              "WhenOpened": "2024-10-14T07:48:22.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,14 +77,14 @@
               "RelativeDocumentMoniker": "trees.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\trees.cpp",
               "RelativeToolTip": "trees.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAkwCsAAAAOAAAA",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAcwJYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-14T07:08:22.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Queue.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp",
               "RelativeDocumentMoniker": "Queue.cpp",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "stack_round_2.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp",
               "RelativeDocumentMoniker": "stack_round_2.cpp",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "stack.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp",
               "RelativeDocumentMoniker": "stack.cpp",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "double_link_list.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
               "RelativeDocumentMoniker": "double_link_list.cpp",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SingleLinkList.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
               "RelativeDocumentMoniker": "SingleLinkList.cpp",
