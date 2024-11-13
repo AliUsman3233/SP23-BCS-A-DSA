@@ -4,6 +4,7 @@ using namespace std;
 struct Node {
 	Node* left;
 	int data;
+	int count;
 	Node* right;
 };
 
@@ -21,14 +22,15 @@ public:
 		Node* newNode = new Node;
 		newNode->left = NULL;
 		newNode->data = data;
+		newNode->count = 1;
 		newNode->right = NULL;
 		return newNode;
 	}
 
 
 
-	void displayRoot(int value) {
-		cout << value << ", ";
+	void displayRoot(Node* root) {
+		cout << root->data<<"^"<< root->count<< ", ";
 	}
 
 	Node* addNode(Node* root, int data) {
@@ -43,13 +45,16 @@ public:
 		else if (data > root->data) {
 			root->right = addNode(root->right, data);
 		}
+		else {
+			root->count++;
+		}
 		return root;
 	}
 
 
 	void preOrder(Node* root) { // root, left, right
 		if (root != NULL) {
-			displayRoot(root->data);
+			displayRoot(root);
 			preOrder(root->left);
 			preOrder(root->right);
 		}
@@ -58,7 +63,7 @@ public:
 	void inOrder(Node* root) { // left, root, right
 		if (root != NULL) {
 			inOrder(root->left);
-			displayRoot(root->data);
+			displayRoot(root);
 			inOrder(root->right);
 		}
 	}
@@ -67,7 +72,7 @@ public:
 		if (root != NULL) {
 			postOrder(root->left);
 			postOrder(root->right);
-			displayRoot(root->data);
+			displayRoot(root);
 		}
 	}
 	
@@ -116,17 +121,66 @@ public:
 
 	}
 
+	Node* removeNode(Node* root, int data) {
+		if (root == NULL) {
+			return root; //NULL
+		}
+		if (root->data == data) {
+
+			if (root->count > 1) {
+				root->count--;
+
+			}
+			else if (root->left == NULL && root->right == NULL) { //  First Case
+				return NULL;
+			}
+			else if (root->left == NULL && root->right != NULL) {//  Second Case
+				return root->right;
+			}
+			else if (root->left != NULL && root->right == NULL) {//  Second Case
+				return root->left;
+			}
+			else {//  Third Case
+				Response minValue = findMin(root->right);
+				root->data = minValue.data;
+				removeNode(root->right, minValue.data);
+			}
+		}
+		else {
+			if (data < root->data) {
+				root->left =  removeNode(root->left, data);
+			}
+			else {
+				root->right = removeNode(root->right, data);
+			}
+		}
+
+		return root;
+
+
+	}
+
 };
 
 
 
 void main(void) {
 	Tree t;
-	t.root = t.addNode(t.root, 5);
-	t.root = t.addNode(t.root, 7);
-	t.root = t.addNode(t.root, 3);
-	t.root = t.addNode(t.root, 1);
-	t.root = t.addNode(t.root, -19);
+	t.root = t.addNode(t.root, 50);
+	t.root = t.addNode(t.root, 25);
+	t.root = t.addNode(t.root, 20);
+	t.root = t.addNode(t.root, 30);
+	t.root = t.addNode(t.root, 45);
+	t.root = t.addNode(t.root, 27);
+	t.root = t.addNode(t.root, 26);
+	t.root = t.addNode(t.root, 35);
+	t.root = t.addNode(t.root, 55);
+	t.root = t.addNode(t.root, 52);
+	t.root = t.addNode(t.root, 53);
+	t.root = t.addNode(t.root, 54);
+	t.root = t.addNode(t.root, 30);
+	t.root = t.addNode(t.root, 30);
+	t.root = t.addNode(t.root, 30);
 
 	cout << "Tree PreOrder traversal result " << endl;
 	t.preOrder(t.root);
@@ -156,13 +210,20 @@ void main(void) {
 	}
 
 	int dataToSearch;
+	int dataToDelete;
+
 	int choice;
 	Response searchResult;
 	while (true) {
-		cout << "Enter 1 to search \n Enter 2 to exit" << endl;
+		cout << "Enter 1 to display \nEnter 2 to search \nEnter 3 to delete node\nEnter 4 to exit" << endl;
 		cin >> choice;
 		switch (choice) {
+
 		case 1:
+			cout << "Tree PreOrder traversal result " << endl;
+			t.inOrder(t.root);
+			break;
+		case 2:
 			cout << "Enter value to search" << endl;
 			cin >> dataToSearch;
 
@@ -175,8 +236,14 @@ void main(void) {
 				cout << searchResult.message << endl;
 			}
 			break;
-			case 2:
-				exit(0);
+		case 3:
+			cout << "Enter value to Delete" << endl;
+			cin >> dataToDelete;
+			t.root = t.removeNode(t.root, dataToDelete);
+			break;
+		case 4:
+			exit(0);
+
 		}
 		system("pause");
 		system("cls");
