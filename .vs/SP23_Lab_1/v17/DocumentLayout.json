@@ -3,35 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\AVL_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:AVL_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\trees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:trees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:double_link_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:SingleLinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:stack_round_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,100 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "xmemory",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "ViewState": "AQIAAJgAAAAAAAAAAAAnwKIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-16T05:59:48.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "test.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
               "RelativeDocumentMoniker": "test.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
               "RelativeToolTip": "test.cpp",
-              "ViewState": "AQIAAEMBAAAAAAAAAAAAAF4BAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T07:48:22.614Z"
+              "WhenOpened": "2024-11-25T07:53:25.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "trees.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\trees.cpp",
               "RelativeDocumentMoniker": "trees.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\trees.cpp",
               "RelativeToolTip": "trees.cpp",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAnwIUAAAAKAAAA",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T07:08:22.839Z",
+              "WhenOpened": "2024-10-14T07:08:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AVL_Tree.cpp",
+              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\AVL_Tree.cpp",
+              "RelativeDocumentMoniker": "AVL_Tree.cpp",
+              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\AVL_Tree.cpp",
+              "RelativeToolTip": "AVL_Tree.cpp",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAALUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T05:05:10.103Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Queue.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp",
-              "RelativeDocumentMoniker": "Queue.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\Queue.cpp",
-              "RelativeToolTip": "Queue.cpp",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T05:45:48.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "stack_round_2.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp",
-              "RelativeDocumentMoniker": "stack_round_2.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack_round_2.cpp",
-              "RelativeToolTip": "stack_round_2.cpp",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAAAFYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T07:11:18.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "stack.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp",
-              "RelativeDocumentMoniker": "stack.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\stack.cpp",
-              "RelativeToolTip": "stack.cpp",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEUAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T06:52:20.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "double_link_list.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
-              "RelativeDocumentMoniker": "double_link_list.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\double_link_list.cpp",
-              "RelativeToolTip": "double_link_list.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALIAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T05:19:18.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SingleLinkList.cpp",
-              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
-              "RelativeDocumentMoniker": "SingleLinkList.cpp",
-              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\SingleLinkList.cpp",
-              "RelativeToolTip": "SingleLinkList.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-11T05:56:31.866Z"
             }
           ]
         }
