@@ -1,3 +1,5 @@
-﻿  AVL_Tree.cpp
-C:\Users\alius\source\repos\SP23_Lab_1\AVL_Tree.cpp(160,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  BubbleSort.cpp
+C:\Users\alius\source\repos\SP23_Lab_1\BubbleSort.cpp(49,6): warning C4101: 'min': unreferenced local variable
+C:\Users\alius\source\repos\SP23_Lab_1\BubbleSort.cpp(66,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\alius\source\repos\SP23_Lab_1\BubbleSort.cpp(67,6): warning C4101: 'dataToSeach': unreferenced local variable
   SP23_Lab_1.vcxproj -> C:\Users\alius\source\repos\SP23_Lab_1\x64\Debug\SP23_Lab_1.exe

@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AVL_Tree.cpp" />
+    <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="circularLinkList.cpp" />
     <ClCompile Include="double_link_list.cpp" />
     <ClCompile Include="Queue.cpp" />

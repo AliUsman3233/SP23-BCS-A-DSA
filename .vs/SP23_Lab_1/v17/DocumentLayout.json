@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\BinarySearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:BinarySearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\AVL_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B50D466B-4F7C-4398-95C5-87E73833FB65}|SP23_Lab_1.vcxproj|solutionrelative:AVL_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "BubbleSort.cpp",
+              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\BubbleSort.cpp",
+              "RelativeToolTip": "BubbleSort.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T05:06:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearch.cpp",
+              "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\BinarySearch.cpp",
+              "RelativeDocumentMoniker": "BinarySearch.cpp",
+              "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\BinarySearch.cpp",
+              "RelativeToolTip": "BinarySearch.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T04:04:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "test.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\test.cpp",
               "RelativeDocumentMoniker": "test.cpp",
@@ -38,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "trees.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\trees.cpp",
               "RelativeDocumentMoniker": "trees.cpp",
@@ -50,16 +84,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AVL_Tree.cpp",
               "DocumentMoniker": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\AVL_Tree.cpp",
               "RelativeDocumentMoniker": "AVL_Tree.cpp",
               "ToolTip": "C:\\Users\\alius\\source\\repos\\SP23_Lab_1\\AVL_Tree.cpp",
               "RelativeToolTip": "AVL_Tree.cpp",
-              "ViewState": "AQIAALIAAAAAAAAAAAAAALUAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-20T05:05:10.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T05:05:10.103Z"
             }
           ]
         }

@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 struct Node {
@@ -200,4 +200,4 @@ void main(void) {
 	system("pause");
 
 	system("pause");
-}
+}*/
