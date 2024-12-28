@@ -132,6 +132,7 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="circularLinkList.cpp" />
     <ClCompile Include="double_link_list.cpp" />
+    <ClCompile Include="patternMatching.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="SingleLinkList.cpp" />
     <ClCompile Include="SingleLinkListSecondRound.cpp" />

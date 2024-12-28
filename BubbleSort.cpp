@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 void bubbleSort(int* arr, int size) {
@@ -79,4 +79,4 @@ void main() {
 	//insertionSort(arr, sizeof(arr) / sizeof(int));
 	displayList(arr, sizeof(arr) / sizeof(int));
 	system("pause");
-}
+}*/
